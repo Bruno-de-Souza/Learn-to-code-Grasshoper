@@ -11,7 +11,7 @@ defineModule(
 );
 
 
-function check(space, word, ___) {
+function check(space, word) {
   if (space.length !== word.length) {
     return false;
   }

@@ -1,4 +1,4 @@
-import { subsequences, stringSequence };
+import { subsequences, stringSequence } from subsequences.words;
     
 let subsequences = ['able', 'ale', 'apple'];
 let stringSequence = ['abppplee'];
